@@ -19,4 +19,4 @@ Small data exchange program using UNIX signals.
  
  # Intro
  
-  > [subject](subject.pdf)
+  > [subject](minitalk.pdf)
