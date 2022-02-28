@@ -11,7 +11,7 @@
 # Cloning
 
  ```
- git clone --recursive git@github.com:mlanca-c/Minitalk.git
+ git clone --recursive git@github.com:zrdouane/minitalk.git
  cd Minitalk
  make all
  ```
