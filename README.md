@@ -1,2 +1,4 @@
 # minitalk
-he purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
+Small data exchange program using UNIX signals.
+ 
+ [![Intro](https://img.shields.io/badge/Cursus-Minitalk-success?style=for-the-badge&logo=42)]
