@@ -31,3 +31,8 @@
  # Intro
  
   > [subject](minitalk.pdf)
+
+# Useful Links
+
+ * [Wiki](https://github.com/zrdouane/Minitalk/wiki)
+ * [Text Generator](http://www.dummytextgenerator.com/#jump)
