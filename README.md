@@ -5,9 +5,11 @@ Small data exchange program using UNIX signals.
  
  # Cloning
 
-git clone 
-cd minitalk
-make all
+ git clone
+
+ cd minitalk
+ 
+ make all
 
  # Compiling
  
